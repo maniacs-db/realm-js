@@ -7,7 +7,7 @@ x.x.x Release notes (yyyy-MM-dd)
 * None
 
 ### Bugfixes
-* None
+* Fix linker error when building for minimum target version of iOS 7.
 
 0.14.0 Release notes (2016-6-22)
 =============================================================
