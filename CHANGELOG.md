@@ -2,6 +2,7 @@ x.x.x Release notes (yyyy-MM-dd)
 =============================================================
 ### Breaking changes
 * Please use `rnpm 1.9.0` or later to link your project. Older versions are no longer supported.
+* Deprecate `Realm.Types`. Please specify the type name as lowercase string instead.
 
 ### Enhancements
 * None
